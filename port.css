@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    border: 0;
+    background-image: url(image.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+
+}
+.head{
+    display: flex;   
+    margin-top: 30px;
+}
+h2{
+    padding-left: 5px;
+}
+.headone{
+    padding-left: 40%;
+    display: flex;
+    position: relative;
+    left: 50px;
+}
+h3{
+    position: relative;
+    padding-left: 30px;
+}
+.one{
+    font-size: 50px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+}
+.boxone{
+    padding-top: 50px;
+}
+.boxtwo{
+    padding-top: 100px;
+}
+.boxthree{
+    padding-top: 100px;
+}
+.boxfour{
+    padding-top: 100px;
+}
+.inone{
+    font-size: 20px;
+    padding-top: 30px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.ok{
+    color: rgb(198, 199, 231);
+}
+.intwo{
+    font-size: 20px;
+    padding-top: 30px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.hey:hover{
+    color: blue;
+    font-size: 20px;
+    transition: 1s;
+}
+.hey{
+    transition: 1s;
+}
+.pt:hover{
+    width: 400px;
+    transition: 1s;
+}
+.pt{
+    transition: 1s;
+}
+.heyt:hover{
+    color: blue;
+    font-size: 25px;
+    transition: 1s;
+}
+.heyt{
+    transition: 1s;
+}
+pre:hover{
+    font-size: 21px;
+    transition: 1s;
+}
+pre{
+    transition: 1s;
+}
